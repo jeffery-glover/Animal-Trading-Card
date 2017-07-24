@@ -1,0 +1,39 @@
+/* add your CSS here */
+.picture {
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+body {
+    width: 324px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.13);
+}
+
+.border {
+    border-style: solid;
+    border-color: rgba(0,0,0,0.13);
+    border-width: 2px;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.em_text {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.bullet_points {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.text {
+    font-size: 14px;
+}
